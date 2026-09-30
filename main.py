@@ -9,9 +9,9 @@ This should not be used for actual passwords; instead it is simply a coding
 exercise.
 Jake Hart
 CIS 162 - SECTION YOUR SECTION
-09/21/26 
+10/09/26 
 '''
-score = int(0)
+score = int(0) #This sets a score variable to 0 so that later score can determine the color on the graph.
 print("My Password Strength Checker")
 print("       By Jake Hart")
 print("")
