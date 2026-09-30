@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import string
+from meter import draw_meter
 '''
 password_strength.py: A module to check the strength of a password provided
 by a user.
@@ -46,7 +47,8 @@ if score < 45:
 elif score < 40:
        color = "yellow"
 
-print(score)
+draw_meter(score, color)
+#print(score)
 
 
 
