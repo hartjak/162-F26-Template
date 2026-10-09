@@ -8,7 +8,7 @@ by a user.
 This should not be used for actual passwords; instead it is simply a coding
 exercise.
 Jake Hart
-CIS 162 - SECTION YOUR SECTION
+CIS 162 - SECTION 20
 10/09/26 
 '''
 score = int(0) #This sets a score variable to 0 so that later score can determine the color on the graph.
